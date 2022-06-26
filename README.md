@@ -15,9 +15,9 @@ processos de inclusão e exclusão dos dados.
 
 ## Layout
 <p align="center">
-  <img width="500" src="CadastroVeiculo1.png">
-  <img width="500" src="CadastroVeiculo2.png">
-  <img width="500" src="CadastroVeiculo3.png">
+  <img width="350" src="CadastroVeiculo1.png">
+  <img width="350" src="CadastroVeiculo2.png">
+  <img width="350" src="CadastroVeiculo3.png">
   <img width="500" src="CadastroVeiculo4.png">
   <img width="500" src="CadastroVeiculo5.png">
 </P>
