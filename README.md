@@ -21,3 +21,7 @@ processos de inclusão e exclusão dos dados.
   <img width="800" src="">
   <img width="800" src="">
 </P>
+
+## Como execultar o projeto
+
+Para executar o projeto basta clonar o link do projeto para o computador na pasta desejada e selecionar o arquivo desejado na estrutura do projeto, após e só ir em executar arquivo.
